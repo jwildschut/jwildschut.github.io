@@ -10,7 +10,7 @@
     --bs-secondary: #0842ae;
     --bs-gray-900: #333333;
     --bs-body-color: #757575;
-    --bs-body-font-size: 1.25rem;
+    --bs-body-font-size: 1rem;
     --bs-body-font-weight: 300;
     --bs-heading-color: var(--bs-gray-900);
 }
@@ -46,6 +46,10 @@
     --bs-navbar-nav-link-padding-x: 1rem;
 }
 
+.breadcrumb {
+    --bs-breadcrumb-margin-bottom: 0rem;
+}
+
 .card {
     --bs-card-spacer-y: 2rem;
     --bs-card-spacer-x: 2rem;
@@ -66,9 +70,9 @@
 }
 
 .card-title {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 700;
-    line-height: 2rem;
+    line-height: 1.25;
     text-decoration: none;
 }
 
@@ -79,7 +83,7 @@
 .btn {
     --bs-btn-padding-x: 1.875rem;
     --bs-btn-padding-y: .75rem;
-    --bs-btn-font-size: 1.25rem;
+    --bs-btn-font-size: 1rem;
     --bs-btn-font-weight: 700;
     --bs-btn-border-radius: 2rem;
 }
@@ -87,6 +91,14 @@
 .btn-secondary {
     --bs-btn-bg: var(--bs-secondary);
     --bs-btn-border-color: var(--bs-secondary);
+    --bs-btn-hover-bg: #1A5DBE;
+    --bs-btn-hover-border-color: #1A5DBE;
+    --bs-btn-active-bg: #1A5DBE;
+    --bs-btn-active-border-color: #1A5DBE;
+}
+
+.modal-backdrop {
+    --bs-backdrop-opacity: .85;
 }
 
 /* ----------- 
@@ -109,16 +121,10 @@
     top: 0;
     left: 0;
     background-color: #ffffff;
-    z-index: 9999;
-}
-
-.cc-heading {
-    line-height: 1;
+    z-index: 100;
 }
 
 .cc-heading a {
-    font-size: calc(.75rem + 1.5vw);
-    line-height: 1.5;
     color: var(--bs-body-color);
     text-decoration: none;
 }
@@ -200,7 +206,58 @@
     border-bottom: 1px solid #d4d5d9;
 }
 
+/* Project */
+.cc-breadcrumbs {
+    padding: 1.25rem 0;
+    border-bottom: 1px solid #d4d5d9;
+}
+
+.cc-gallery-item {
+    overflow: hidden;
+}
+
+.cc-gallery-item .cc-img-overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, .65);
+    transition: background-color .15s ease-in-out;
+}
+
+.cc-gallery-item .cc-card-img {
+    transition: transform .15s ease-in-out;
+}
+
+.cc-gallery-item:hover .cc-card-img {
+    transform: scale(1.1);
+}
+
+.cc-gallery-item:hover .cc-img-overlay {
+    background-color: rgba(0, 0, 0, .35);
+}
+
+.cc-gallery-modal .modal-content {
+    background-color: transparent;
+}
+
+.cc-gallery-modal .modal-header {
+    border-bottom-width: 0px;
+}
+
 @media (min-width: 576px) {
+    : root {
+        --bs-body-font-size: 1.25rem;
+    }
+
+    .card-title {
+        font-size: 1.5rem;
+    }
+
+    .btn {
+        --bs-btn-font-size: 1.25rem;
+    }
+
     .cc-heading a {
         font-size: 1.25rem;
     }

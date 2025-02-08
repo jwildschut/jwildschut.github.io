@@ -3,20 +3,20 @@
     {
       "Title": "Smartphonehoesjes - Email marketing automation",
       "Subtitle": "HTML Email Template",
-      "Thumbnail": "/assets/img/smartphonehoesjes.webp",
-      "URL": "/smartphonehoesjes"
+      "Thumbnail": "/assets/img/html-template-smartphonehoesjes.png",
+      "URL": "/projects/smartphonehoesjes"
     },
     {
-      "Title": "Smartphonehoesjes - Email marketing automation",
+      "Title": "Amac - Email marketing automation",
       "Subtitle": "HTML Email Template",
-      "Thumbnail": "/assets/img/smartphonehoesjes.webp",
-      "URL": "/smartphonehoesjes"
+      "Thumbnail": "/assets/img/html-template-amac.png",
+      "URL": "/projects/amac"
     },
     {
-      "Title": "Smartphonehoesjes - Email marketing automation",
-      "Subtitle": "HTML Email Template",
-      "Thumbnail": "/assets/img/smartphonehoesjes.webp",
-      "URL": "/smartphonehoesjes"
+      "Title": "Kaizend - Email management and distribution system",
+      "Subtitle": "Application",
+      "Thumbnail": "/assets/img/application-kaizend.png",
+      "URL": "/projects/kaizend"
     }
   ]
 }
