@@ -1,0 +1,58 @@
+{
+  "Projects": [
+    {
+      "Title": "Smartphonehoesjes - Email marketing automation",
+      "Subtitle": "Marketing Automation",
+      "Thumbnail": "/assets/img/portfolio-thumb-smartphonehoesjes.png",
+      "URL": "/project?p=smartphonehoesjes"
+    },
+    {
+      "Title": "Amac - Email marketing automation",
+      "Subtitle": "Marketing Automation",
+      "Thumbnail": "/assets/img/portfolio-thumb-amac.png",
+      "URL": "/project?p=amac"
+    },
+    {
+      "Title": "Passa Sports - Email marketing automation",
+      "Subtitle": "HTML Email Template",
+      "Thumbnail": "/assets/img/portfolio-thumb-passasports.png",
+      "URL": "/project?p=passasports"
+    },
+    {
+      "Title": "Kaizend - Email management and distribution system",
+      "Subtitle": "Application",
+      "Thumbnail": "/assets/img/portfolio-thumb-kaizend.png",
+      "URL": "/project?p=kaizend"
+    },
+    {
+      "Title": "Het Rijk Golfbanen - Golfcourse reservation website",
+      "Subtitle": "Website",
+      "Thumbnail": "/assets/img/portfolio-thumb-het-rijk-golfbanen.png",
+      "URL": "/project?p=hetrijkgolfbanen"
+    },
+    {
+      "Title": "Kracht Recruitment - Email marketing automation",
+      "Subtitle": "Marketing Automation",
+      "Thumbnail": "/assets/img/portfolio-thumb-kracht.png",
+      "URL": "/project?p=kracht"
+    },
+    {
+      "Title": "The Key To Life - Email marketing automation",
+      "Subtitle": "HTML Email Template",
+      "Thumbnail": "/assets/img/portfolio-thumb-thekeytolife.png",
+      "URL": "/project?p=thekeytolife"
+    },
+    {
+      "Title": "Electronic Partner - Scratch & Win campaign webpage",
+      "Subtitle": "Campaign Development",
+      "Thumbnail": "/assets/img/portfolio-thumb-electronicpartner.png",
+      "URL": "/project?p=electronicpartner"
+    },
+    {
+      "Title": "MaxiAxi - Scratch-to-win promo webpage",
+      "Subtitle": "Campaign Development",
+      "Thumbnail": "/assets/img/portfolio-thumb-maxiaxi.png",
+      "URL": "/project?p=maxiaxi"
+    }
+  ]
+}

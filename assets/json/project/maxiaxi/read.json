@@ -1,0 +1,20 @@
+{
+  "Title": "MaxiAxi",
+  "Subtitle": "Scratch-to-win promo webpage",
+  "Banner": "/assets/img/full-banner-maxiaxi.png",
+  "ThemeColor": "#ECACEA",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-maxiaxi-thumb-krastival-step-1.png",
+      "Image": "/assets/img/project-maxiaxi-krastival-step-1.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-maxiaxi-thumb-krastival-step-2.png",
+      "Image": "/assets/img/project-maxiaxi-krastival-step-2.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-maxiaxi-thumb-krastival-step-3.png",
+      "Image": "/assets/img/project-maxiaxi-krastival-step-3.png"
+    }
+  ]
+}

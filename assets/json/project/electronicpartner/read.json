@@ -1,0 +1,24 @@
+{
+  "Title": "Electronic Partner",
+  "Subtitle": "Scratch & Win campaign webpage",
+  "Banner": "/assets/img/full-banner-electronicpartner.png",
+  "ThemeColor": "#00B84E",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-electronicpartner-thumb-wk-actie-step-1.png",
+      "Image": "/assets/img/project-electronicpartner-wk-actie-step-1.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-electronicpartner-thumb-wk-actie-step-2.png",
+      "Image": "/assets/img/project-electronicpartner-wk-actie-step-2.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-electronicpartner-thumb-wk-actie-step-3.png",
+      "Image": "/assets/img/project-electronicpartner-wk-actie-step-3.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-electronicpartner-thumb-wk-actie-step-4.png",
+      "Image": "/assets/img/project-electronicpartner-wk-actie-step-4.png"
+    }
+  ]
+}

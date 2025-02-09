@@ -1,0 +1,16 @@
+{
+  "Title": "Het Rijk Golfbanen",
+  "Subtitle": "Golfcourse reservation website",
+  "Banner": "/assets/img/full-banner-hetrijkgolfbanen.png",
+  "ThemeColor": "#A70932",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-hetrijkgolfbanen-thumb-template.png",
+      "Image": "/assets/img/project-hetrijkgolfbanen-template.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-hetrijkgolfbanen-thumb-template-darkmode.png",
+      "Image": "/assets/img/project-hetrijkgolfbanen-template-darkmode.png"
+    }
+  ]
+}

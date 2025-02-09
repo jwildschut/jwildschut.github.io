@@ -1,0 +1,12 @@
+{
+  "Title": "Kracht Recruitment",
+  "Subtitle": "Email marketing automation",
+  "Banner": "/assets/img/full-banner-kracht.png",
+  "ThemeColor": "#00A4EB",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-kracht-thumb-template.png",
+      "Image": "/assets/img/project-kracht-template.png"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Passa Sports",
+  "Subtitle": "Email marketing automation",
+  "Banner": "/assets/img/full-banner-passasports.png",
+  "ThemeColor": "#707070",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-passasports-thumb-template.png",
+      "Image": "/assets/img/project-passasports-template.png"
+    }
+  ]
+}

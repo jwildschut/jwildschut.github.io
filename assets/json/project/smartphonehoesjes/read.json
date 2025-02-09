@@ -1,0 +1,24 @@
+{
+  "Title": "Smartphonehoesjes",
+  "Subtitle": "Email marketing automation",
+  "Banner": "/assets/img/full-banner-smartphonehoesjes.png",
+  "ThemeColor": "#E35679",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-smartphonehoesjes-thumb-template-1.png",
+      "Image": "/assets/img/project-smartphonehoesjes-template-1.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-smartphonehoesjes-thumb-template-2.png",
+      "Image": "/assets/img/project-smartphonehoesjes-template-2.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-smartphonehoesjes-thumb-template-darkmode-1.png",
+      "Image": "/assets/img/project-smartphonehoesjes-template-darkmode-1.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-smartphonehoesjes-thumb-template-darkmode-2.png",
+      "Image": "/assets/img/project-smartphonehoesjes-template-darkmode-2.png"
+    }
+  ]
+}

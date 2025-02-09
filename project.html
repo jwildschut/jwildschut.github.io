@@ -40,10 +40,10 @@
     </header>
     <main class="px-2 px-md-3">
         <div class="cc-wrapper pb-4">
-            <div class="cc-full-banner" style="background-color:#e35679;background-image:url(/assets/img/full-banner-smartphonehoesjes.png);">
+            <div id="fullBannerWrapper" class="cc-full-banner">
                 <div class="cc-container d-flex align-items-center">
                     <div class="cc-content">
-                        <h1><span>Smartphonehoesjes</span><br /><span class="fw-light">Email marketing automation</span></h1>
+                        <h1><span id="title"></span><br /><span id="subtitle" class="fw-light"></span></h1>
                     </div>
                 </div>
             </div>
@@ -54,36 +54,13 @@
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="/">Home</a></li>
                         <li class="breadcrumb-item"><a href="/portfolio">Portfolio</a></li>
-                        <li class="breadcrumb-item active">Smartphonehoesjes</li>
+                        <li class="breadcrumb-item active" id="breadcrumb"></li>
                     </ol>
                 </nav>
             </div>
             <div class="cc-container pt-4">
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-                    <div class="col">
-                        <div class="card h-100 cc-gallery-item" data-bs-toggle="modal" data-bs-target="#modal">
-                            <img src="/assets/img/project-smartphonehoesjes-thumb-template.png" class="card-img cc-card-img">
-                            <div class="card-img-overlay cc-img-overlay">
-                                <img src="/assets/img/project-search-plus.png" width="84" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 cc-gallery-item" data-bs-toggle="modal" data-bs-target="#modal">
-                            <img src="/assets/img/project-smartphonehoesjes-thumb-template.png" class="card-img cc-card-img">
-                            <div class="card-img-overlay cc-img-overlay">
-                                <img src="/assets/img/project-search-plus.png" width="84" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="card h-100 cc-gallery-item" data-bs-toggle="modal" data-bs-target="#modal">
-                            <img src="/assets/img/project-smartphonehoesjes-thumb-template.png" class="card-img cc-card-img">
-                            <div class="card-img-overlay cc-img-overlay">
-                                <img src="/assets/img/project-search-plus.png" width="84" />
-                            </div>
-                        </div>
-                    </div>
+                <div id="galleryWrapper" class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+                    <!-- Gallery items will be placed here -->
                 </div>
             </div>
             <div class="cc-container pt-5">
@@ -99,7 +76,7 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body text-center">
-                        <img class="img-fluid" src="/assets/img/project-smartphonehoesjes-template.png" />
+                        <img id="galleryPreview" class="img-fluid" />
                     </div>
                 </div>
             </div>
@@ -114,6 +91,6 @@
     </footer>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <script src="/js/index/index.js"></script>
+    <script src="/js/project/read.js"></script>
 </body>
 </html>

@@ -1,0 +1,24 @@
+{
+  "Title": "Amac",
+  "Subtitle": "Email marketing automation",
+  "Banner": "/assets/img/full-banner-amac.png",
+  "ThemeColor": "#EECB6C",
+  "GalleryItems": [
+    {
+      "Thumbnail": "/assets/img/project-amac-thumb-template.png",
+      "Image": "/assets/img/project-amac-template.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-amac-thumb-template-zakelijk.png",
+      "Image": "/assets/img/project-amac-template-zakelijk.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-amac-thumb-template-onderwijs.png",
+      "Image": "/assets/img/project-amac-template-onderwijs.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-amac-thumb-template-zorg.png",
+      "Image": "/assets/img/project-amac-template-zorg.png"
+    }
+  ]
+}
