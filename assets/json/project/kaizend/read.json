@@ -4,6 +4,41 @@
   "Banner": "/assets/img/full-banner-kaizend.png",
   "ThemeColor": "#38B6AB",
   "GalleryItems": [
-
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-dashboard.png",
+      "Image": "/assets/img/project-kaizend-dashboard.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-email-editor.png",
+      "Image": "/assets/img/project-kaizend-email-editor.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-image-editor.png",
+      "Image": "/assets/img/project-kaizend-image-editor.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-image-editor-highlights.png",
+      "Image": "/assets/img/project-kaizend-image-editor-highlights.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-email-preview.png",
+      "Image": "/assets/img/project-kaizend-email-preview.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-distribute.png",
+      "Image": "/assets/img/project-kaizend-distribute.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-email-editor-summary.png",
+      "Image": "/assets/img/project-kaizend-email-editor-summary.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-permissions-and-roles.png",
+      "Image": "/assets/img/project-kaizend-permissions-and-roles.png"
+    },
+    {
+      "Thumbnail": "/assets/img/project-kaizend-thumb-audit-trail.png",
+      "Image": "/assets/img/project-kaizend-audit-trail.png"
+    }
   ]
 }

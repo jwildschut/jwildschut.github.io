@@ -17,6 +17,20 @@ $(document).ready(function () {
         let image = $(this).data('image');
         $('#galleryPreview').attr('src', image);
     });
+
+    $('#modal').on('shown.bs.modal', function () {
+        history.pushState({ modalOpen: true }, '', '#modal');
+    });
+
+    $('#modal').on('hidden.bs.modal', function () {
+        if (history.state && history.state.modalOpen) {
+            history.back();
+        }
+    });
+
+    window.addEventListener('popstate', function () {
+        $('#modal').modal('hide');
+    });
 });
 
 function getQueryParam(param) {
